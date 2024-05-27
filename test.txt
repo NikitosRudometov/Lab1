@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Nikita Valerievichhhh
-=======
 Nikita Valerievi
->>>>>>> newdev
+
